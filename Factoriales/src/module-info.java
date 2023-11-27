@@ -4,5 +4,5 @@
 /**
  * 
  */
-module holaMundo {
+module Factoriales {
 }
