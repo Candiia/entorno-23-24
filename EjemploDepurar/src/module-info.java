@@ -5,5 +5,5 @@
  * @author Candi
  *
  */
-module HolaMundo {
+module EjemploDepurar {
 }
